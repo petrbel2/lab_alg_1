@@ -1,5 +1,15 @@
 # lab_alg_1
 
+Файлы:
+
+header - файл функций
+
+general_speed_comparison - часть 4.1
+
+LU_speed_comparison - часть 4.2
+
+accuracy_check - часть 4.3
+
 Реализованные алгоритмы:
 
 Алгоритм Гаусса без выбора ведущего элемента:
